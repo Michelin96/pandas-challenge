@@ -8,4 +8,4 @@ The group with the lowest spending per student has the hightest average scores a
 
 The smaller schools have the highest average scores in math and reading. Smaller school sizes most likely have smaller class sizes, reducing the student-teacher ratio. This invariably provides more time for indiviual help.
 
-The Charter School group has an overall passing rate over 20% higher than the District School group. It would seem that environment of Charter schools is more condusive to learning.
+The Charter School group has an overall passing rate over 20% higher than the District School group. It would seem that the environment of Charter schools is more condusive to learning.
